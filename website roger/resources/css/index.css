@@ -1,0 +1,70 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: white;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.banner {
+    background-color: #4D00FF;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+
+#banner-image{
+    height: 250px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+h2
+{
+    background-color:  #4D00FF;
+    color: white;
+}
+
+table{
+    width: 40%;
+}
+
+th{
+    height: 50px;
+    font-size: 20px;
+}
+
+table, th, td
+{
+    padding: 1px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#title{
+    color:#4D00FF;
+    font-size: 50px;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+p{
+    font-family: 'Lucida Sans';
+}
+
+body, .navbar
+{background-color: ghostwhite ;}
